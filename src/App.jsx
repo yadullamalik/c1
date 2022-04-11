@@ -23,7 +23,7 @@ function App() {
       <h3 className="India">India:</h3>
       <div className="banner">
         <div>
-          Score:{" "}
+          {/* Score:{" "} */}
           <h1 className="scoreCount">
             {
               score
