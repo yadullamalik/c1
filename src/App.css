@@ -6,29 +6,29 @@
 .App {
   margin-left: 300px;
   margin-top: 50px;
-  background-color: yellowgreen;
+  background-color: #f55353;
   padding-left: 20px;
   width: 650px;
 }
 .India {
   font-size: 40px;
-  color: aquamarine;
+  color: #4700d8;
 }
 .banner > div {
   font-size: 22px;
   font-weight: 700;
-  color: lightcoral;
+  color: #4700d8;
   letter-spacing: 1px;
 }
-.banner > div>h1{
-  color: palegreen;
+.banner > div > h1 {
+  color: #2fa4ff;
 }
 .addScore,
 .addWicket,
 .addBall {
-  font-size: 20px;
-  font-weight: 600;
-  color: rgb(204, 17, 17);
+  font-size: 22px;
+  font-weight: 800;
+  color: #9900f0;
 }
 .addScore > button,
 .addWicket > button,
@@ -36,10 +36,10 @@
   margin-left: 10px;
   font-size: 18px;
   font-weight: 700;
-  background-color: aqua;
-  color: coral;
+  background-color: #143f6b;
+  color: #f6f54d;
 }
-.status{
+.status {
   font-size: 30px;
-  color: lightseagreen;
+  color: #D9CE3F;
 }
