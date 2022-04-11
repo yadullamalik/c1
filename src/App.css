@@ -21,7 +21,7 @@
   letter-spacing: 1px;
 }
 .banner > div > h1 {
-  color: #2fa4ff;
+  color: #f1d00a;
 }
 .addScore,
 .addWicket,
@@ -41,5 +41,5 @@
 }
 .status {
   font-size: 30px;
-  color: #D9CE3F;
+  color: #d9ce3f;
 }
